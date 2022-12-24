@@ -572,3 +572,8 @@ Miscellaneous
 
 * Passing positional arguments to ``Signer`` and ``TimestampSigner`` is
   deprecated in favor of keyword-only arguments.
+
+:mod:`django.shortcuts`
+~~~~~~~~~~~~~~~~~~~~~~~
+
+* The new :func:`django.shortcuts.make_toast` function returns ``'toast'``.
